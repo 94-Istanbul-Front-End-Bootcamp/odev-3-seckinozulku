@@ -4,6 +4,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    background-color: rgb(219, 208, 208);
 }
 body {
     height: 100vh;
@@ -16,6 +17,7 @@ form {
     padding: 20px;
     border: 2px solid gray;
     border-radius: 10px;
+    color: rgb(18, 110, 110);
 }
 form > h1 {
     border-bottom: 2px solid gray;
